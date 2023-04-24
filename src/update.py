@@ -109,7 +109,8 @@ def _fix_urls(map_json: Optional[dict[str, Any]]) -> None:
     for key in _url_keys:
         url: str = map_json[key]
         # noinspection HttpUrlsUsage
-        map_json[key] = url.replace('http://', 'https://', 1)
+        map_json[key] = url.replace('http://', 'https://', 1) \
+            .replace('/?', '?', 1)
 
 
 def _fix_maps(maps_json: Optional[list[dict[str, Any]]]) -> None:

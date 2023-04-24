@@ -3,7 +3,7 @@
         "id": "212",
         "name": "bkz_hellokitty_v2",
         "difficulty": "2",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=688361403",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=688361403",
         "mappers": [
             {
                 "name": "Kore",
@@ -15,7 +15,7 @@
         "id": "221",
         "name": "bkz_underground_crypt_v3",
         "difficulty": "5",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=491359928",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=491359928",
         "mappers": [
             {
                 "name": "Yaznee",
@@ -27,7 +27,7 @@
         "id": "222",
         "name": "bkz_uninspired_trash",
         "difficulty": "3",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=406053096",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=406053096",
         "mappers": [
             {
                 "name": "Felicienne",
@@ -39,7 +39,7 @@
         "id": "229",
         "name": "kz_7in1",
         "difficulty": "2",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1667950835",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1667950835",
         "mappers": [
             {
                 "name": "Woozie",
@@ -51,7 +51,7 @@
         "id": "236",
         "name": "kz_akrh_warehouse_v3",
         "difficulty": "2",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2545042781",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2545042781",
         "mappers": [
             {
                 "name": "AssKicR",
@@ -63,7 +63,7 @@
         "id": "250",
         "name": "kz_beginnerblock_go",
         "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=156057667",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=156057667",
         "mappers": [
             {
                 "name": "Ovi",
@@ -75,7 +75,7 @@
         "id": "928",
         "name": "kz_bhop_monsterjam",
         "difficulty": "2",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2272849539",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2272849539",
         "mappers": [
             {
                 "name": "Aoki",
@@ -91,7 +91,7 @@
         "id": "794",
         "name": "kz_bhop_sakura",
         "difficulty": "3",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2124488428",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2124488428",
         "mappers": [
             {
                 "name": ".yuka",
@@ -111,7 +111,7 @@
         "id": "264",
         "name": "kz_bluerace_v2",
         "difficulty": "2",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1667952586",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1667952586",
         "mappers": [
             {
                 "name": "tr4mp",
@@ -123,7 +123,7 @@
         "id": "272",
         "name": "kz_cartooncastle_go",
         "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1170804936",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1170804936",
         "mappers": [
             {
                 "name": "s0liD",
@@ -139,7 +139,7 @@
         "id": "275",
         "name": "kz_catalyst_gfix",
         "difficulty": "3",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1939576543",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1939576543",
         "mappers": [
             {
                 "name": "umbrella",
@@ -151,7 +151,7 @@
         "id": "279",
         "name": "kz_cg_brick_rmk",
         "difficulty": "3",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=688171253",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=688171253",
         "mappers": [
             {
                 "name": "InseN",
@@ -163,7 +163,7 @@
         "id": "280",
         "name": "kz_cg_lighthops",
         "difficulty": "3",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2545050329",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2545050329",
         "mappers": [
             {
                 "name": "Mentalo",
@@ -179,7 +179,7 @@
         "id": "283",
         "name": "kz_chinablock",
         "difficulty": "3",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=279166189",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=279166189",
         "mappers": [
             {
                 "name": "Lehmann",
@@ -195,14 +195,14 @@
         "id": "310",
         "name": "kz_de_bhop",
         "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=509624659",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=509624659",
         "mappers": []
     },
     {
         "id": "324",
         "name": "kz_ea_beneath",
         "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2545046787",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2545046787",
         "mappers": [
             {
                 "name": "rad0n",
@@ -218,7 +218,7 @@
         "id": "346",
         "name": "kz_forestrace_go",
         "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=337879628",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=337879628",
         "mappers": [
             {
                 "name": "h1m1",
@@ -234,7 +234,7 @@
         "id": "350",
         "name": "kz_galaxy_go2",
         "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=156066234",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=156066234",
         "mappers": [
             {
                 "name": "Woozie",
@@ -246,7 +246,7 @@
         "id": "361",
         "name": "kz_giantbean",
         "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=156066438",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=156066438",
         "mappers": [
             {
                 "name": "Kreedz",
@@ -262,7 +262,7 @@
         "id": "362",
         "name": "kz_gigablock_go",
         "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=219883470",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=219883470",
         "mappers": [
             {
                 "name": "Kreedz",
@@ -278,7 +278,7 @@
         "id": "371",
         "name": "kz_haki_v2",
         "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=156066638",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=156066638",
         "mappers": [
             {
                 "name": "a$ce",
@@ -290,7 +290,7 @@
         "id": "499",
         "name": "kz_halicarnassus_fs",
         "difficulty": "3",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2080802644",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=2080802644",
         "mappers": [
             {
                 "name": "Zengal",
@@ -306,7 +306,7 @@
         "id": "395",
         "name": "kz_kzse_aztectemple",
         "difficulty": "2",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=302894093",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=302894093",
         "mappers": [
             {
                 "name": "aegget",
@@ -322,7 +322,7 @@
         "id": "401",
         "name": "kz_littlerock_v2",
         "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=156067138",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=156067138",
         "mappers": [
             {
                 "name": "Surion",
@@ -334,7 +334,7 @@
         "id": "404",
         "name": "kz_luonto",
         "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1102578759",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1102578759",
         "mappers": [
             {
                 "name": "sBlisss",
@@ -350,7 +350,7 @@
         "id": "407",
         "name": "kz_man_everest_go_fix",
         "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1098716930",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1098716930",
         "mappers": [
             {
                 "name": "Kreedz",
@@ -370,7 +370,7 @@
         "id": "410",
         "name": "kz_megabhop_v2",
         "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1667953480",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1667953480",
         "mappers": [
             {
                 "name": "inSaNe",
@@ -390,7 +390,7 @@
         "id": "424",
         "name": "kz_nightmare_v2",
         "difficulty": "3",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=386548794",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=386548794",
         "mappers": [
             {
                 "name": "m-tet",
@@ -402,7 +402,7 @@
         "id": "438",
         "name": "kz_pharaoh_csgo",
         "difficulty": "2",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=377402121",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=377402121",
         "mappers": [
             {
                 "name": "Daniel_Lyness",
@@ -414,7 +414,7 @@
         "id": "440",
         "name": "kz_pianoclimb_go",
         "difficulty": "2",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=230274161",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=230274161",
         "mappers": [
             {
                 "name": "DyleT2",
@@ -426,7 +426,7 @@
         "id": "450",
         "name": "kz_quadrablock",
         "difficulty": "3",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=156068013",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=156068013",
         "mappers": [
             {
                 "name": "Pix",
@@ -442,7 +442,7 @@
         "id": "468",
         "name": "kz_sanctuary",
         "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=387095066",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=387095066",
         "mappers": [
             {
                 "name": "a$ce",
@@ -454,7 +454,7 @@
         "id": "491",
         "name": "kz_sukblock_v2_fixed",
         "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=511719435",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=511719435",
         "mappers": [
             {
                 "name": "SuckY' TearZ",
@@ -466,7 +466,7 @@
         "id": "498",
         "name": "kz_sz_goldenbean",
         "difficulty": "3",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=279111456",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=279111456",
         "mappers": [
             {
                 "name": "Kreedz",
@@ -482,7 +482,7 @@
         "id": "502",
         "name": "kz_terablock",
         "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=269563440",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=269563440",
         "mappers": [
             {
                 "name": "Kreedz",
@@ -498,7 +498,7 @@
         "id": "504",
         "name": "kz_tomb_fix",
         "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1099232235",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1099232235",
         "mappers": [
             {
                 "name": "MoHaX_cm",
@@ -510,7 +510,7 @@
         "id": "673",
         "name": "kz_toughluck_fix",
         "difficulty": "2",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1740708159",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1740708159",
         "mappers": [
             {
                 "name": "TurboAgent",
@@ -522,7 +522,7 @@
         "id": "512",
         "name": "kz_tron_global",
         "difficulty": "3",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=406055395",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=406055395",
         "mappers": [
             {
                 "name": "><))'> FISHY",
@@ -534,7 +534,7 @@
         "id": "523",
         "name": "kz_xand",
         "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=387908744",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=387908744",
         "mappers": [
             {
                 "name": "a$ce",
@@ -546,7 +546,7 @@
         "id": "560",
         "name": "xc_fox_shrine_japan_fr",
         "difficulty": "3",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1279693156",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1279693156",
         "mappers": [
             {
                 "name": "incAming",
@@ -558,7 +558,7 @@
         "id": "539",
         "name": "xc_skycastle",
         "difficulty": "2",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1660023848",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1660023848",
         "mappers": [
             {
                 "name": "Bendix",
@@ -574,7 +574,7 @@
         "id": "540",
         "name": "xc_supermario_go_gfix",
         "difficulty": "2",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1939578036",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails?id=1939578036",
         "mappers": [
             {
                 "name": "SinFuL",
